@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sana Hameed  
 
-💻 **WordPress Developer | Frontend Enthusiast | Graphic Designer**  
+💻 **WordPress Developer | Frontend Enthusiast | Graphic Designer** | Computer Science Enthusiast
 🎨 7+ years in design | 📚 Currently focusig on Artificial Intelligence and Big Data
 
 ---

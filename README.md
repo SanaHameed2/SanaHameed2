@@ -29,4 +29,4 @@ Frontend developer with expertise in structured JavaScript applications and scal
 ---
 
 ## Contact
-[LinkedIn](https://linkedin.com/in/sanahameed) 
+www.linkedin.com/in/sana-hameed-68136716a
